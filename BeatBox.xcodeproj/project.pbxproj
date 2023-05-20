@@ -13,6 +13,7 @@
 		126D0B712A18AA1A0067E05A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 126D0B6F2A18AA1A0067E05A /* Main.storyboard */; };
 		126D0B732A18AA1C0067E05A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 126D0B722A18AA1C0067E05A /* Assets.xcassets */; };
 		126D0B762A18AA1C0067E05A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 126D0B742A18AA1C0067E05A /* LaunchScreen.storyboard */; };
+		126D0B7E2A18AFE50067E05A /* Duffel Bag.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 126D0B7D2A18AFE50067E05A /* Duffel Bag.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		126D0B722A18AA1C0067E05A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		126D0B752A18AA1C0067E05A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		126D0B772A18AA1C0067E05A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		126D0B7D2A18AFE50067E05A /* Duffel Bag.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Duffel Bag.mp4"; path = "../../../Documents/Musica/Duffel Bag.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		126D0B682A18AA1A0067E05A /* BeatBox */ = {
 			isa = PBXGroup;
 			children = (
+				126D0B7D2A18AFE50067E05A /* Duffel Bag.mp4 */,
 				126D0B692A18AA1A0067E05A /* AppDelegate.swift */,
 				126D0B6B2A18AA1A0067E05A /* SceneDelegate.swift */,
 				126D0B6D2A18AA1A0067E05A /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				126D0B762A18AA1C0067E05A /* LaunchScreen.storyboard in Resources */,
+				126D0B7E2A18AFE50067E05A /* Duffel Bag.mp4 in Resources */,
 				126D0B732A18AA1C0067E05A /* Assets.xcassets in Resources */,
 				126D0B712A18AA1A0067E05A /* Main.storyboard in Resources */,
 			);
